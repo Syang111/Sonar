@@ -18,7 +18,7 @@ cd Sonar
 mvn package -DskipTests
 cd target
 java -jar Sonar-*.jar --num-threads 4 sqlite3
-java -jar Sonar-*.jar --num-threads num_of_threads --host hostString --port portNumber --username usernameString --password passwordString databaseName
+java -jar Sonar-*.jar --num-threads threadNumber --host hostString --port portNumber --username usernameString --password passwordString databaseName
 java -jar Sonar-*.jar --num-threads 4 --username root --password '' --host 127.0.0.1 --port 3306 mysql
 java -jar Sonar-*.jar --num-threads 4 --username root --password '' --host 127.0.0.1 --port 3306 tidb
 ```
