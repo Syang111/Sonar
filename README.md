@@ -21,3 +21,6 @@ java -jar Sonar-*.jar --num-threads num_of_threads --host hostString --port port
 java -jar Sonar-*.jar --num-threads 4 --username root --password '' --host 127.0.0.1 --port 3306 mysql
 java -jar Sonar-*.jar --num-threads 4 --username root --password '' --host 127.0.0.1 --port 3306 tidb
 ```
+
+# Bugs
+You can check bugs found by Sonar in [Bugs](https://github.com/Syang111/Sonar/blob/master/Bugs.md).
