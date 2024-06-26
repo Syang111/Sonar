@@ -1,0 +1,12 @@
+target/
+.classpath
+.vscode
+.project
+databases/
+.checkstyle
+*.DS_Store
+.idea
+Sonar.iml
+dependency-reduced-pom.xml
+database0.db
+databaseconnectiontest.db
