@@ -13,6 +13,7 @@ Requirements:
 The following commands create a JAR, and start Sonar to test DBMS:
 
 ```
+git clone https://github.com/Syang111/Sonar.git
 cd Sonar
 mvn package -DskipTests
 cd target
