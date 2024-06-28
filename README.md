@@ -24,4 +24,4 @@ java -jar Sonar-*.jar --num-threads 4 --username root --password '' --host 127.0
 ```
 
 # Bugs
-You can check bugs found by Sonar in [Bug Lists](https://github.com/Syang111/Sonar/blob/master/Bugs.md).
+You can check bugs found by Sonar in [Bug List](https://github.com/Syang111/Sonar/blob/master/Bugs.md).
