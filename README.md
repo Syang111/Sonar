@@ -1,5 +1,5 @@
 # Sonar
-Sonar is a tool to automatically test Database Management Systems (DBMS) in order to find logical bugs in their implementation.
+Sonar is a tool to automatically test Database Management Systems (DBMSs) in order to find logical bugs in their implementation.
 
 # Getting Started
 
