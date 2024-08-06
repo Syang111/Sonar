@@ -523,7 +523,7 @@ To alleviate the burden on developers in identifying the root cause, we have sim
 
 * #8 [https://github.com/pingcap/tidb/issues/51290](https://github.com/pingcap/tidb/issues/51290)
 
-  **Status**: Fixed
+  **Status**: fixed
 
   **Version**: v7.5.0 
 
